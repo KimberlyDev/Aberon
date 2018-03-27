@@ -1,0 +1,41 @@
+﻿Aberon - general game idea
+
+
+
+
+The player will be allowed to go almost every besides very special areas -> open world
+The player will explore the world, find items, fight monsters, challenge bosses, grow stronger -> adventure rpg
+The player will have a lot of choices, that will change the flow of the game (e.g. help the bandit(s), try to fight him / her / them, or run back to town and tell the guards.)
+The player will only have the option to save in save havens. (e.g. camp, cities(taverns / inns?))
+The combat will be turn based. The combat will have a lot of different options: regular physical / magical attacks (second one costs a small amount of arcane energy), abilities(buffs, debuffs, physical attack / healing, magical attack / healing, composite attack / healing, dots)
+The player will find party members (ai controlled), and can face more than a single enemy. ->Turn based combat with multiple creatures.
+Special enemies / allies will have special or more intelligent ai. Boss fights (one boss, or one very strong enemy party) will have very fine tuned ai, I will add an example soon.
+The player can join different factions, e.g. the Imperial army. This will have consequences of course -> Need event triggers, flags, etc.
+Developer option: make player fight automatically (AI)
+The player will have an inventory, and can equip items. 1 weapon / staff, 1 offhand item, and armor (head, body, legs, arms).
+I want a nsfw option - but consider this a final addition to the game, if we ever get it to a very playable stage. But we can argue about this, if you do not want that in, I am okay with that. It is just that I am a very naughty girl. :P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In general, but especially for the last part, I will draw a lot of ideas and wishes from "coc" (Corruption of Champions by Fenoxo), a very, very kinky and totally nsfw text based game, which I have played a lot. I just fancy the general idea behind the game,
+and if we skip the nsfw aspects (99% of the game) it still has the general concept I want to see in our game.
