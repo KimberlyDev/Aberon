@@ -15,7 +15,10 @@ Developer option: make player fight automatically (AI)
 The player will have an inventory, and can equip items. 1 weapon / staff, 1 offhand item, and armor (head, body, legs, arms).
 I want a nsfw option - but consider this a final addition to the game, if we ever get it to a very playable stage. But we can argue about this, if you do not want that in, I am okay with that. It is just that I am a very naughty girl. :P
 
+Regarding locations. Player should have different options in a location: Search, talk to (npc's), goto someplace else. Sleep, rest, save at a haven. Search will have chance for encounters with possible hostile enemies, items.
+Regarding encounters: Most encounters will NOT start with combat, but before. The player may find a way around combat, befriend the opponent. Or the player may attack a friendly npc.
 
+Regarding descriptions and stuff: I want this to be a proper text game, so we may need to find someone who is good with writing stuff. Because I want literal WALLS of text ;)
 
 
 
